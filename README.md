@@ -61,7 +61,7 @@ O diferencial do projeto é utilizar a tecnologia não apenas para estudar, mas 
 
 ---
 
-<img src="blob:chrome-untrusted://media-app/a31f2ac3-b05e-444f-84b4-c143ee9ddf62" alt="ChatGPT Image 29 de set. de 2026, 16_31_01.png"/>
+<img src="blob:chrome-untrusted://media-app/8a1290b1-5462-4c04-b9dc-45a9240688fb" alt="Screenshot 2026-09-29 17.02.49.png"/>
 
 ---
 ## 📝 Resumo da Ideia
