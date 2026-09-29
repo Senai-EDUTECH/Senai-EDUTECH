@@ -61,7 +61,7 @@ O diferencial do projeto é utilizar a tecnologia não apenas para estudar, mas 
 
 ---
 
-                                                Tela Do Projeto
+                                                   Tela Do Projeto
 
 <p align="center">
 <img src="https://github.com/Senai-EDUTECH/Senai-EDUTECH/blob/862c0f790b55c7d20b0a5a1b01e9b58541e07924/Screenshot%202026-09-29%2017.02.49.png" alt="Screenshot 2026-09-29 17.02.49.png"/>
