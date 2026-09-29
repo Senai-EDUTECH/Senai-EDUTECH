@@ -63,6 +63,7 @@ O diferencial do projeto é utilizar a tecnologia não apenas para estudar, mas 
 
 <img src="blob:chrome-untrusted://media-app/8a1290b1-5462-4c04-b9dc-45a9240688fb" alt="Screenshot 2026-09-29 17.02.49.png"/>
 
+
 ---
 ## 📝 Resumo da Ideia
 O **SENAI TECH** é uma aplicação web educacional e social que conecta estudantes, professores e a comunidade escolar. A plataforma facilitará o acesso a materiais de estudo, permitirá o compartilhamento de conhecimento e divulgará projetos sociais, contribuindo para uma educação mais colaborativa e acessível.
