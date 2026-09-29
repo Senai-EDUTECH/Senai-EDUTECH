@@ -2,6 +2,8 @@
 
 ---
 
+                                                  Tela do projeto
+
 <p align="center">
   <img"<img src="blob:chrome-untrusted://media-app/77c636ca-2107-479f-8b44-bcf13c33a3de" alt="SENAI-EDUTECH (2).png"/><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/658b6219-e160-49a5-944c-9da408a7379c"/>
 </p>
@@ -61,8 +63,9 @@ O diferencial do projeto é utilizar a tecnologia não apenas para estudar, mas 
 
 ---
 
-<img src="blob:chrome-untrusted://media-app/8a1290b1-5462-4c04-b9dc-45a9240688fb" alt="Screenshot 2026-09-29 17.02.49.png"/>
-
+<p align="center">
+<img src="https://github.com/Senai-EDUTECH/Senai-EDUTECH/blob/862c0f790b55c7d20b0a5a1b01e9b58541e07924/Screenshot%202026-09-29%2017.02.49.png" alt="Screenshot 2026-09-29 17.02.49.png"/>
+</p>
 
 ---
 ## 📝 Resumo da Ideia
